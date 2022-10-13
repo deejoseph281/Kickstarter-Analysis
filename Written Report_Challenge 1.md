@@ -10,7 +10,8 @@ This project reviewed Kickstarter data campaigns, focusing on 'Plays' that were 
 We were able to understand plays by launch date and whether the launch date by month impacted the campaigns probability of success. 
 ![Outcomes Based on Launch Date](https://github.com/deejoseph281/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+We were able to understand outcomes by goals and whether there was a clear indicator of outcome based on the goal value. 
+![Outcomes Based on Goal](https://github.com/deejoseph281/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 The differentiation between COUNTIF for a single criteria and COUNTIFS for multiple criteria was easily missed. 
 I did not know how to add the range as a single criteria like a standard IF function, I was forced to research how to countIF the range as multiple criteria instead of a single criteria. 
