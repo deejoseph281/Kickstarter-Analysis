@@ -26,9 +26,9 @@ Campaigns are most successful when their goals are less than $1,000
 Campaigns are more likely to fail than succeed when the goal is above $45,000.
 
 - What are some limitations of this dataset?
---There is no variance field for goal value vs pledged value. 
---There is no number of days live for each campaign. 
---There is no sub-category subset of type of plays. 
+There is no variance field for goal value vs pledged value. 
+There is no number of days live for each campaign. 
+There is no sub-category subset of type of plays. 
 - What are some other possible tables and/or graphs that we could create?
 Outcomes Based on Days Live
 Percentage of Pledged vs Goal Values for Failed Campaigns
