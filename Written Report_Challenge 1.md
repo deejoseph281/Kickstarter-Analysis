@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-This project reviewed Kickstarter data campaigns, focusing on 'Plays' that were successful, failed, or canceled and the associated goals of each 'Plays' campaign. The purpose of the project was to understand whether there was a trend for outcomes that led to successful, failed, or canceled campaigns based on their launch dates and based on their funding goals.
+This project reviewed Kickstarter data campaigns, focusing on 'Plays' that were successful, failed, or canceled and the associated goals of each 'Plays' campaign. The purpose of the project was to understand whether there was a trend for outcomes that led to successful, failed, or canceled campaigns based on their launch dates and based on their funding goals. The analysis can be found at https://github.com/deejoseph281/Kickstarter-Analysis/blob/main/Kickstarter_Challenge.zip. 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
