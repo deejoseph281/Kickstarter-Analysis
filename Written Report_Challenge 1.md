@@ -14,7 +14,7 @@ We were able to understand outcomes by goals and whether there was a clear indic
 ![Outcomes Based on Goal](https://github.com/deejoseph281/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 The differentiation between COUNTIF for a single criteria and COUNTIFS for multiple criteria was easily missed. 
-I did not know how to add the range as a single criteria like a standard IF function, I was forced to research how to countIF the range as multiple criteria instead of a single criteria. 
+I did not know how to add the range as criterial within COUNTIFS and needed to lean on external resources to understand how to write the formula for the range using the function. The range would need to be classified as two seperate criteria, while I was tryign to write it into a single criteria. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? 
