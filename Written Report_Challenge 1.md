@@ -8,7 +8,7 @@ This project reviewed Kickstarter data campaigns, focusing on 'Plays' that were 
 
 ### Analysis of Outcomes Based on Launch Date
 We were able to understand plays by launch date and whether the launch date by month impacted the campaigns probability of success. 
-[Outcomes Based on Launch Date](https://github.com/deejoseph281/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](https://github.com/deejoseph281/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
