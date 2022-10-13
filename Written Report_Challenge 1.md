@@ -17,9 +17,12 @@ I did not know how to add the range as a single criteria like a standard IF func
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? 
-- Campaigns are most likely to success when launched in May and June. 
+Campaigns are most likely to succeeed when launched in May and June. 
+Campaigns are least likely to succeed when launched in December.
 
-- What can you conclude about the Outcomes based on Goals? Campaigns are most successful when their goals are less than $5000, and more likely to fail than succeed when the goal is between $15,000 to $35,000 ot above $45,000.
+- What can you conclude about the Outcomes based on Goals? 
+Campaigns are most successful when their goals are less than $1,000
+Campaigns are more likely to fail than succeed when the goal is above $45,000.
 
 - What are some limitations of this dataset?
 
